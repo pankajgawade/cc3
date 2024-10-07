@@ -1,1 +1,1 @@
-printf("This is Python Programming");
+print("This is Python Programming");
