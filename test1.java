@@ -1,6 +1,6 @@
 class test1
   {
-    public styatic void main(String arg[])
+    public static void main(String arg[])
     {
       system.out.println("this is java progrraming");
     }
